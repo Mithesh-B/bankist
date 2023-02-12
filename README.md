@@ -17,5 +17,5 @@ To login into account and test features, use:
 
 OR
 
-1.ID: jd
+1. ID: jd
 2. Password: 2222
